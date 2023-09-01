@@ -3,7 +3,7 @@
    <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" >
 <h1>
     <a href="https://github.com/SaraKlamann">
-     <img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/128/1253/1253473.png"></a><span>Sara Caroline Klamann Jucoski </span> <img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/128/1253/1253473.png"></a>
+     <img align="center" width="36px" src="https://cdn-icons-png.flaticon.com/128/1253/1253473.png"></a><span> Sara Klamann </span> <img align="center" width="36px" src="https://cdn-icons-png.flaticon.com/128/1253/1253473.png"></a>
 </h1>
 
 # 🌠 About me 🌠
