@@ -29,7 +29,7 @@
 
 # ⚙️ Coming Soon... 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ccccff&size=25&center=true&vCenter=true&width=1000&lines=Studiyng..." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ccccff&size=25&center=true&vCenter=true&width=1000&lines=Studying..." alt="Typing SVG">
 </a>
 
 
