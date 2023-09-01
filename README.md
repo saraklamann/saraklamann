@@ -8,6 +8,16 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saraklamann&show_icons=true&count_private=true&hide_border=true&title_color=ccccff&icon_color=ccccff&text_color=7d5b8c&bg_color=0d1117" alt="Sara Caroline Klamann Jucoski github stats" /> 
 
+# ⚙️ Coming Soon...
+![C](https://img.shields.io/badge/C_Programming-000?style=for-the-badge&logo=c&logoColor=823085)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![GitHUb](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
+
+
 # ☎️ Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/saraklamann/)
 
