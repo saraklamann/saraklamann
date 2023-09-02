@@ -12,7 +12,7 @@
 <div align="center">
 <img  width="52%" height="130px" src="https://user-images.githubusercontent.com/89000535/188519478-4a527490-2283-42eb-ad30-a3dbfb321440.gif">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccccff&size=23&left=true&vcenter=true&width=440&lines=I'm+19+years+old;I+am+from+Joinville,+SC,+Brazil;I+Study+Analysis+and+System+Development;And+IT+Industrial+Learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccccff&size=23&left=true&vcenter=true&width=449&lines=I'm+19+years+old;I+am+from+Joinville,+SC,+Brazil;I+Study+Analysis+and+System+Development;And+IT+Industrial+Learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  # 📑 GitHub Stats
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saraklamann&show_icons=true&count_private=true&hide_border=true&title_color=ccccff&icon_color=ccccff&text_color=7d5b8c&bg_color=0d1117" alt="Sara Caroline Klamann Jucoski github stats" /> 
