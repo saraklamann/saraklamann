@@ -10,7 +10,7 @@
 
 </div>
 <div align="center">
-<img  width="52%" height="150px" src="https://user-images.githubusercontent.com/89000535/188519478-4a527490-2283-42eb-ad30-a3dbfb321440.gif">
+<img  width="52%" height="110px" src="https://user-images.githubusercontent.com/89000535/188519478-4a527490-2283-42eb-ad30-a3dbfb321440.gif">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccccff&size=23&left=true&vcenter=true&width=400&lines=I'm+19+years+old;I+am+from+Joinville,+SC,+Brazil;I+Study+Analysis+and+System+Development;And+IT+Industrial+Learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
