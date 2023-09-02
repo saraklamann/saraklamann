@@ -38,7 +38,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=ccccff)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=ccccff)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ccccff)
-![GitHUb](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&&logoColor=ccccff)
+![GitHUb](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&&logoColor=ccccff)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-000?style=for-the-badge&logo=microsoft-excel&&logoColor=ccccff)
 
 
