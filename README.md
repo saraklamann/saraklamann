@@ -35,7 +35,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=ccccff&size=25&center=true&vCenter=true&width=1000&lines=Studying..." alt="Typing SVG">
 </a>
 
-![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=JAVA&logoColor=ccccff)
+![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java&logoColor=ccccff)
 ![C](https://img.shields.io/badge/C_Programming-000?style=for-the-badge&logo=c&logoColor=ccccff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=ccccff)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=ccccff)
@@ -49,5 +49,11 @@
 
 </div>
 
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/victormoreiraofc/count.svg?&hide_border=true&title_color=ccccff&icon_color=ccccff&text_color=7d5b8c&bg_color=0d1117"/>
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d5b8c&height=120&section=footer"/>
