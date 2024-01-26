@@ -18,8 +18,8 @@
 <div align="center">
    
  # 📑 GitHub Stats
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saraklamann&show_icons=true&count_private=true&hide_border=true&title_color=ccccff&icon_color=ccccff&text_color=7d5b8c&bg_color=0d1117" alt="Sara Caroline Klamann Jucoski github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraklamann&layout=compact&hide_border=true&title_color=ccccff&text_color=7d5b8c&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saraklamann&show_icons=true&count_private=true&border_color=7d5b8c&title_color=ccccff&icon_color=7d5b8c&text_color=ccccff&bg_color=0d1117" alt="Sara Caroline Klamann Jucoski github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraklamann&layout=compact&border_color=7d5b8c&title_color=ccccff&text_color=ccccff&bg_color=0d1117" />
 </div>
 
 
