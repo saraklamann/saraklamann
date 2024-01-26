@@ -54,6 +54,6 @@
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/saraklamann/count.svg?&hide_border=true&title_color=ccccff&icon_color=ccccff&text_color=7d5b8c&bg_color=0d1117"/>
+  <img src="https://profile-counter.glitch.me/saraklamann/count.svg?&border_color=7d5b8c&title_color=ccccff&icon_color=ccccff&text_color=7d5b8c&bg_color=0d1117"/>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d5b8c&height=120&section=footer"/>
